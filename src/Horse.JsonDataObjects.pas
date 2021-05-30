@@ -37,7 +37,7 @@ begin
   Result := HorseJsonDataObjects('UTF-8');
 end;
 
-function HorseJsonObjects(const ACharset: string): THorseCallback; overload;
+function HorseJsonDataObjects(const ACharset: string): THorseCallback; overload;
 begin
   Charset := ACharset;
   Result  := Middleware;
