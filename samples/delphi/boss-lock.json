@@ -1,0 +1,22 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2021-05-30T17:43:14.0055848-03:00",
+	"installedModules": {
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "2.0.13",
+			"hash": "985da2054d3c705bc211797c653e47ba",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/tbisistemas/horse-jsondataobjects": {
+			"name": "horse-jsondataobjects",
+			"version": "v1.0.1",
+			"hash": "18118f78a4f9fbf7fe9378fd5a59fd44",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
