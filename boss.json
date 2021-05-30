@@ -3,7 +3,7 @@
 	"description": "Middleware for parse JsonDataObject in HORSE",
 	"version": "1.0.0",
 	"homepage": "",
-	"mainsrc": "./",
+	"mainsrc": "src/",
 	"projects": [],
 	"dependencies": {
 		"github.com/hashload/horse": "^2.0.13"
